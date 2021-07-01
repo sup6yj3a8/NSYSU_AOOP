@@ -18,4 +18,4 @@
 7.［筆記］繼承模式與存取權限｜C++  https://tsungsquare.blogspot.com/2021/06/inheritance.html
 8.［筆記］多型與繼承的關係｜C++  https://tsungsquare.blogspot.com/2021/06/polymorphism.html
 9.［筆記］static / const成員資料與函式｜C++  https://tsungsquare.blogspot.com/2021/06/static-const.html
-10,［筆記］夥伴函式與類別、不夠朋友問題｜C++  https://tsungsquare.blogspot.com/2021/06/friend.html
+10.［筆記］夥伴函式與類別、不夠朋友問題｜C++  https://tsungsquare.blogspot.com/2021/06/friend.html
